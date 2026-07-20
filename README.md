@@ -173,9 +173,9 @@ Legend:
     - [Multi-system emulators](#multi-system-emulators)
   - [Emulation platforms](#emulation-platforms)
     - [Emulation operating systems for computers](#emulation-operating-systems-for-computers)
-    - [Emulation operating systems for single board computers](#emulation-operating-systems-for-single-board-computers)
-    - [Emulation frontends and launchers for Windows/Linux](#emulation-frontends-and-launchers-for-windowslinux)
-    - [Emulation frontends for Android](#emulation-frontends-for-android)
+    - [Emulation operating systems for single board computers](#emulation-operating-systems-for-single-board-computers-sbcs)
+    - [Emulation frontends and launchers for Windows/Linux](#emulation-frontends-and-launchers-for-desktop)
+    - [Emulation frontends for Android](#emulation-frontends-for-mobile)
     - [Emulation scripts for setting up multiple emulators](#emulation-scripts-for-setting-up-multiple-emulators)
     - [Emulation services](#emulation-services)
     - [Game collection managers](#game-collection-managers)
@@ -1264,6 +1264,7 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 | [QEMU](https://www.qemu.org/)                                          | :heavy_check_mark: | LGPLv2.1                                                                    | :x:  | :heavy_check_mark: | :heavy_check_mark: | x86, ARM, MIPS, RISC-V, PowerPC, more | :computer: :apple: :penguin: :imp:                                                          |
 | [UniPCEmu (formerly x86EMU)](https://superfury.itch.io/unipcemu)       | :x:                | Proprietary                                                                 | :x:  | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :computer: :robot: PSP Vita Switch          |
 | [VARCem](https://www.varcem.com/)                                      | :heavy_check_mark: | 3-clause BSD                                                        | :x:  | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :computer:                                                                                  |
+| [v86](https://copy.sh/v86/)                                            | :heavy_check_mark: | 2-clause BSD                                                        | :x:  | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :globe_with_meridians:                                                                      |
 | [VirtualXT](https://github.com/andreas-jonsson/virtualxt)              | :heavy_check_mark: | MIT                                                                 | :x:  | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :computer: :penguin:                                                                        |
 | [Winlator](https://github.com/brunodev85/winlator)                     | Yes, partially     | Source available/MIT                                                | :x:  | :heavy_check_mark: | :x:                | x86                                   | :robot:                                                                                     |
 | [XTulator](https://github.com/mikechambers84/XTulator)                 | :heavy_minus_sign: | Might be GPLv2 since it is a rewrite of Fake86, but no license supplied | :x:  | :x:                | :heavy_minus_sign: | x86                                   | :computer: :penguin:                                                                        |
@@ -1765,6 +1766,7 @@ _Disclaimer: These tools are listed for preservation of games that are either no
 | [Provenance emulator](https://provenance-emu.com/)                                                                         | :heavy_check_mark: | MIT/BSD license                            | :x:                | :heavy_check_mark: | :heavy_check_mark: | [List of supported systems](https://github.com/Provenance-Emu/Provenance?tab=readme-ov-file#systems-supported)                                          | :iphone:                                                                                             |
 | [ManicEmu](https://github.com/Manic-EMU/ManicEMU)                                                                          | :heavy_check_mark: | AGPLv3                                 | :x:                | :heavy_check_mark: | :heavy_check_mark: | [List of supported systems](https://github.com/Manic-EMU/ManicEMU?tab=readme-ov-file#supported-platforms)                                               | :iphone:                                                                                             |
 | [Folium](https://github.com/emuplace/folium.emuplace.app)                                                                  | :heavy_minus_sign: | Source available                           | :x:                | :heavy_check_mark: | :heavy_minus_sign: |                                                                                                                                                         | :iphone:                                                                                             |
+| [PockEmul](https://pockemul.com)                                                                                           | :x:                | Proprietary                                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [List of supported systems](https://pockemul.com/index.php/pockemul-portfolio)                                                                          | :computer: :apple: :robot: :iphone: :globe_with_meridians:                                           |
 
 ## Emulation platforms
 
@@ -1841,6 +1843,7 @@ _Disclaimer: These tools are listed for preservation of games that are either no
 | [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | :heavy_check_mark: | GPLv3   | :x:  | :heavy_check_mark: | :heavy_check_mark: | RetroArch                      | :robot:  |
 | [Daijishou](https://github.com/TapiocaFox/Daijishou)                             | :heavy_check_mark: | MIT | :x:  | :heavy_check_mark: | :heavy_check_mark: | RetroArch, other emulator apps | :robot:  |
 | [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)      | :x:                | Proprietary | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Unknown, "supports 83 systems" | :robot:  |
+| [Limbo Emulator](https://virtualmachinery.weebly.com)                            | :heavy_check_mark:  | GNU GPLv2   | :x:  | :heavy_minus_sign: | :heavy_minus_sign: | QEMU x86/x86_64, ARM/ARM64, PowerPC/PowerPC64 and SPARC           | :robot:  |
 
 ### Game client frontends for mobile
 
