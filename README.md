@@ -1267,6 +1267,7 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 | [VirtualXT](https://github.com/andreas-jonsson/virtualxt)              | :heavy_check_mark: | MIT                                                                 | :x:  | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :computer: :penguin:                                                                        |
 | [Winlator](https://github.com/brunodev85/winlator)                     | Yes, partially     | Source available/MIT                                                | :x:  | :heavy_check_mark: | :x:                | x86                                   | :robot:                                                                                     |
 | [XTulator](https://github.com/mikechambers84/XTulator)                 | :heavy_minus_sign: | Might be GPLv2 since it is a rewrite of Fake86, but no license supplied | :x:  | :x:                | :heavy_minus_sign: | x86                                   | :computer: :penguin:                                                                        |
+| [wine-assembly](https://github.com/vgrichina/wine-assembly)            | :heavy_check_mark: | MIT license                                                                 | :x:  | :heavy_check_mark: | :heavy_minus_sign: | x86 Win32/Win98 PE                    | :globe_with_meridians:                                                                      |
 
 ### System/370, ESA/390, z/Architecture
 
@@ -1874,6 +1875,7 @@ _Disclaimer: These tools are listed for preservation of games that are either no
 | [ArcadeManager](https://github.com/cosmo0/arcade-manager)             | :heavy_check_mark: | MIT | :x:  | :heavy_check_mark: | :heavy_check_mark: | Arcade systems   |          |
 | [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) | :heavy_check_mark: | GPLv3   | :x:  | :heavy_check_mark: | :heavy_check_mark: | Multiple systems |          |
 | [MAME Miner](https://github.com/longjoel/MameMiner)                   | :heavy_check_mark: | MIT | :x:  | :x:                | :x:                | Arcade systems   |          |
+| [n01d-timemachine](https://github.com/bad-antics/n01d-timemachine)                   | :heavy_check_mark: | MIT | :x:  | :heavy_check_mark:                | :x:                | Multiple systems   | :computer: :apple: :penguin:         |
 
 ## 👨‍💻 Contributing
 
