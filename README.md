@@ -1650,6 +1650,7 @@ BlueStacks: Contained vulnerabilities that allowed remote code execution and una
 | [Gnash](https://github.com/strk/gnash)                 | :heavy_check_mark: | GPLv3                                                      | :x:  | :x:                | :heavy_minus_sign: | Adobe Flash      | :computer: :apple: :penguin: :imp: :globe_with_meridians: Haiku BeOS OS/2 [MANY](https://github.com/strk/gnash/blob/master/README) more |
 | [Lightspark](https://github.com/lightspark/lightspark) | :heavy_check_mark: | GPLv3                                                      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :penguin: :globe_with_meridians:                                                                                             |
 | [Ruffle](https://github.com/ruffle-rs/ruffle)          | :heavy_check_mark: | Dual-licensed under the Apache 2.0 license and the MIT | :x:  | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :apple: :penguin: :globe_with_meridians:                                                                                     |
+| [Flashpoint Archive](https://flashpointarchive.org/)          | :heavy_check_mark: | [Multiple licenses](https://flashpointarchive.org/source) | :x:  | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :apple: :penguin:                                                                                      |
 
 ### Game engine emulators/interpreters
 
