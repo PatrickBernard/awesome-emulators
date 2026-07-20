@@ -341,7 +341,7 @@ Legend:
 | [psOff_public](https://github.com/SysRay/psOff_public) and a [GUI (taken down due to it going paid)](https://github.com/ChristianStrau/psOFF-GUI) | :heavy_check_mark: | GPLv3                   | :x:                | :x:                | :x:                | PS4                     | :computer:                   |
 | [psOff_premium](https://github.com/SysRay/psOff_compatibility)                                                                                    | :x:                | Proprietary                 | :heavy_check_mark: | :heavy_minus_sign: | :x:                | PS4                     | :computer:                   |
 | [RPCSX](https://github.com/RPCSX/rpcsx)                                                                                                           | :heavy_check_mark: | GPLv2                   | :x:                | :heavy_check_mark: | :heavy_check_mark: | PS4, PS5 | :penguin:                    |
-| [shadPS4](https://github.com/georgemoralis/shadPS4)                                                                                               | :heavy_check_mark: | GPLv2                   | :x:                | :heavy_check_mark: | :heavy_check_mark: | PS4                     | :computer: :penguin:         |
+| [shadPS4](https://github.com/shadps4-emu/shadPS4)                                                                                               | :heavy_check_mark: | GPLv2                   | :x:                | :heavy_check_mark: | :heavy_check_mark: | PS4                     | :computer: :penguin:         |
 | [shadPS4Plus](https://github.com/AzaharPlus/shadPS4Plus/)                                                                                         | :heavy_check_mark: | GPLv2                   | :x:                | :heavy_check_mark: | :heavy_check_mark: | PS4                     | :computer: :penguin:         |
 | [Spine](https://github.com/devofspine/spine)                                                                                                      | :x:                | Proprietary                 | :x:                | :x:                | :x:                | PS4                     | :computer:                   |
 
@@ -671,7 +671,7 @@ Legend:
 | -------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------ | -------------------- |
 | [cs360emu](https://github.com/soywiz-archive/cs360emu)                           | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | 360 | :computer:           |
 | [Xenia](https://xenia.jp)                                                        | :heavy_check_mark: | MIT      | :x:  | :heavy_check_mark: | :heavy_check_mark: | 360 | :computer: :penguin: |
-| [Xenia Canary](https://github.com/xenia-canary/xenia-canary)                     | :heavy_check_mark: | MIT      | :x:  | :heavy_check_mark: | :heavy_check_mark: | 360 | :computer: :penguin: |
+| [Xenia Canary](https://github.com/xenia-canary/xenia-canary-releases)                     | :heavy_check_mark: | MIT      | :x:  | :heavy_check_mark: | :heavy_check_mark: | 360 | :computer: :penguin: |
 
 #### Microsoft Xbox One
 
